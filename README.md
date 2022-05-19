@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20I%27m%20Soondong%20%F0%9F%91%8B&fontSize=50)
 
-<!--
-**soondong2/soondong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I
+- 🌱 I’m currently learning R, Python, MySQL
+- 🥇 I majored in Statistics.
 
-Here are some ideas to get you started:
+## Interest
+- 📊 Data Analysis
+- 💻 Machine Learning and Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<img src="https://img.shields.io/badge/Python-CC6699?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-654FF0?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R studio-6CAC4D?style=flat-square&logo=R studio&logoColor=white"/></a>

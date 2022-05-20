@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20I%27m%20Soondong%20%F0%9F%91%8B&fontSize=50)
 
-## Who Am I
+## About Me
 - 🌱 I’m currently learning Python, MySQL, R
 - 🥇 I majored in Statistics.
 

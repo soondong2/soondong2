@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=header&text=EunJi&fontSize=45&fontColor=00000&fontAlign=85&fontAlignY=25&rotate=7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=header&text=EunJi&desc=Hello&descSize=20&descAlign=85&descAlignY=50&fontSize=45&fontColor=00000&fontAlign=85&fontAlignY=25&rotate=7&animation=fadeIn)
 
 ## About Me
 - 🌱 I’m currently learning Python, SQL, R

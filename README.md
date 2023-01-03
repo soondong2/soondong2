@@ -34,6 +34,15 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 
+## Contact 
+<a href="https://velog.io/@ddoddo">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&Velog=github&link=https://velog.io/@ddoddo"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<a href="mailto:revudn46@naver.com">
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:revudn46@naver.com"
+     style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+<br>
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=footer)

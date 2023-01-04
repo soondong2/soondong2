@@ -3,7 +3,6 @@
 ## About Me
 - 🎓 I majored in Statistics.
 - 🌱 I’m currently learning Data Analysis & Machine Learning
-
 <br>
 
 ## Stacks

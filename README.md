@@ -1,12 +1,24 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=header&text=EunJi&desc=Hello&descSize=20&descAlign=85&descAlignY=50&fontSize=45&fontColor=00000&fontAlign=85&fontAlignY=25&rotate=7&animation=fadeIn)
+  
+</div>
 
-## About Me
-- 🎓 I majored in Statistics.
-- 🌱 I’m currently learning Artificial Intelligence & Data Analysis
+<div align="center">
+  
+### 🐰 Eunji 🐰
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoondong2&count_bg=%23AA09D7&title_bg=%23FD5858&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
+🎓 I majored in Statistics. <br>
+🌱 I’m currently learning Artificial Intelligence & Data Analysis
+
+</div>
 
 <br>
 
-## Stacks
+<div align="center">
+  
+### Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
@@ -33,7 +45,14 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Excel-007ACC?style=flat-square&logo=Microsoft Excel&logoColor=white"/></a>
+
+</div>
+
 <br>
 <br>
 
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=footer)
+  
+</div>

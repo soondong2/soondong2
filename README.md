@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=header&text=EunJi&desc=Hello&descSize=20&descAlign=85&descAlignY=50&fontSize=45&fontColor=00000&fontAlign=85&fontAlignY=25&rotate=7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=header&text=EunJi&desc=soondong2&descSize=20&descAlign=85&descAlignY=50&fontSize=45&fontColor=00000&fontAlign=85&fontAlignY=25&rotate=7&animation=fadeIn)
   
 </div>
 
@@ -13,8 +13,6 @@
 🌱 I’m currently learning Artificial Intelligence & Data Analysis
 
 </div>
-
-<br>
 
 <div align="center">
   
@@ -48,8 +46,12 @@
 
 </div>
 
-<br>
-<br>
+<div align="center">
+  
+### Contact Me
+<a href="mailto:revudn46@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=revudn46@naver.com"/></a>
+
+</div>
 
 <div align="center">
   

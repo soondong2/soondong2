@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=header&text=EunJi&desc=soondong2&descSize=20&descAlign=85&descAlignY=50&fontSize=45&fontColor=00000&fontAlign=85&fontAlignY=25&rotate=7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=100&section=header&text=EunJi&desc=soondong2&descSize=20&descAlign=90&descAlignY=35&fontSize=45&fontColor=00000&fontAlign=90&fontAlignY=10&rotate=7&animation=fadeIn)
   
 </div>
 
@@ -55,6 +55,6 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=150&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F2CB61&height=100&section=footer)
   
 </div>

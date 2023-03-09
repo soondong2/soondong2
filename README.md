@@ -33,7 +33,6 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-150458?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
